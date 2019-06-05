@@ -30,8 +30,6 @@ public class FileStore implements BlobStore {
               outputStream.write(buffer);
         }
 
-
-
     }
 
     @Override
